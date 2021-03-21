@@ -1,36 +1,36 @@
-#EXTINF:-1 TV MURCIA	
+#EXTINF:-1,TV MURCIA	
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8 
-#EXTINF:-1 VENTDELNORT
+#EXTINF:-1,VENTDELNORT
 http://ventdelnord.tv:8080/escala/directe.m3u8 
-#EXTINF:-1 EITB
+#EXTINF:-1,EITB
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8   EITB
-#EXTINF:-1 TELEMADRID
+#EXTINF:-1,TELEMADRID
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
-#EXTINF:-1 LANCELOT.TV
+#EXTINF:-1,LANCELOT.TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
-#EXTINF:-1 LEBRIJATV
+#EXTINF:-1,LEBRIJATV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
-#EXTINF:-1 TELEMADRID1
+#EXTINF:-1,TELEMADRID1
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
-#EXTINF:-1 TELESAFOR
+#EXTINF:-1,TELESAFOR
 http://video.telesafor.com/hls/video_low.m3u8
-#EXTINF:-1 TELEMAX
+#EXTINF:-1,TELEMAX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:-1 13MAXHD
+#EXTINF:-1,13MAXHD
 http://coninfo.net:1935/13maxhd/live_720p/.m3u8
-#EXTINF:-1 MULTIVISION
+#EXTINF:-1,MULTIVISION
 http://panel.dattalive.com:1935/8250/8250/.m3u8
-#EXTINF:-1 MTV1
+#EXTINF:-1,MTV1
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 CAROLINA TV
+#EXTINF:-1,CAROLINA TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:-TVLIVE1
+#EXTINF:-1,TVLIVE1
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-TELEMAX1
+#EXTINF:-1,TELEMAX1
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
-#EXTINF:-UESTV
+#EXTINF:-1,UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-UMAGTV
+#EXTINF:-1,UMAGTV
 http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-EXTREMATV
+#EXTINF:-1,EXTREMATV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
