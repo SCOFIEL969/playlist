@@ -1,15 +1,77 @@
 #EXTINF:-1,DISTRITO COMEDIA
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/691
+#EXTINF:-1, TNT
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=tnt&f=.m3u8
 #EXTINF:-1,AXN
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
 #EXTINF:-1,FX
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
 #EXTINF:-1,FXM
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF:-1, Discovery ID
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=id&f=.m3u8
+#EXTINF:-1, H2
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=h2&f=.m3u8
+#EXTINF:-1, History
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=history&f=.m3u8
+#EXTINF:-1, Azteca UNO
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=aztecauno&f=.m3u8
+#EXTINF:-1, Azteca 7
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=azteca7&f=.m3u8
+#EXTINF:-1, Space
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=space&f=.m3u8
+#EXTINF:-1, Universal
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=warner&f=.m3u8
+#EXTINF:-1, Universal
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=universal&f=.m3u8
+#EXTINF:-1, Sony
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=sony&f=.m3u8
+#EXTINF:-1, Nick Jr
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=nickjr&f=.m3u8
+#EXTINF:-1, Nick
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=nick&f=.m3u8
+#EXTINF:-1, NatGeo Kids
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=natgeokids&f=.m3u8
+#EXTINF:-1, Discovery Kids
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=dkids&f=.m3u8
+#EXTINF:-1, Disney XD
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneyxd&f=.m3u8
+#EXTINF:-1, Disney Jr
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneyjr&f=.m3u8
+#EXTINF:-1, Disney Channel
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=disneych&f=.m3u8
+#EXTINF:-1, Cartoon Network
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=cartoon&f=.m3u8
+#EXTINF:-1, Star Series
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=babytv&f=.m3u8
+#EXTINF:-1, Star Series
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starseries&f=.m3u8
+#EXTINF:-1, Star Life
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starlife&f=.m3u8
+#EXTINF:-1, Star Hits
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starhits&f=.m3u8
+#EXTINF:-1, Star Action
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starfun&f=.m3u8
+#EXTINF:-1, Star Action
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=staraction&f=.m3u8
+#EXTINF:-1, Star Channel
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=starch&f=.m3u8
+#EXTINF:-1, HBO Family
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbofamily&f=.m3u8
+#EXTINF:-1, HBO +
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hboplus&f=.m3u8
+#EXTINF:-1, HBO 2
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbo2&f=.m3u8
+#EXTINF:-1, HBO
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=hbo&f=.m3u8
+#EXTINF:-1, A&E
+http://ipeteve.com/php/SR_REGIO231213/regio.php?c=ae&f=.m3u8
 #EXTINF:-1, ARGENTINA:Canal 10 Rio Negro
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1, CHILE:Portal Foxmix
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1, Nosotros Los Nobles |
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
 #EXTINF:-1,M2O TV | SD
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
 #EXTINF:-1,Music Top | HD
@@ -125,7 +187,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1182
 #EXTINF:-1,El Gourmet
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1186
-
 #EXTINF:-1,7 Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1,Canaria SAT*
@@ -231,3 +292,31 @@ http://37.187.7.106/hechostv/live.m3u8
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,MODA Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,DW
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1, Ten Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1, M2O TV [SD]
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Retro Tv MUSICAL
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,Radio 51 TV
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1,RADIO NUMBER ONE TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1, IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,El Pinguino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/live.m3u8?
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?
+#EXTINF:-1, Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+#EXTINF:-1,Chileiptv:CampusTv
+http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
+#EXTINF:-1,Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,RETRO MUSIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
