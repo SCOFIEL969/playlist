@@ -1,4 +1,41 @@
-#EXTINF:-1,Entretenimiento:Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-#EXTINF:-1,NOTICIAS:CGTN 1
-https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1,Caracol HD
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/768
+#EXTINF:0 group-title="Lista TV", Univision
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=univisionhd&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Nick Jr
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=nickjr&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Nick
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=nick&f=.m3u8
+#EXTINF:0 group-title="Lista TV", NatGeo Kids
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=natgeokids&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Discovery Kids
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=dkids&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Disney XD
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=disneyxd&f=.m3u8
+#EXTINF:-1,TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
+#EXTINF:0 group-title="Lista TV", Disney Jr
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=disneyjr&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Disney Channel
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=disneych&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Cartoon Network
+http://ipeteve.com/php/REGIO_PLAY21321231/regio.php?c=cartoon&f=.m3u8
+#EXTINF:-1,FX
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+#EXTINF:-1,FXM
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/553
+#EXTINF:0 group-title="Lista TV", E!
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=e&f=.m3u8
+#EXTINF:0 group-title="Lista TV", FX
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=fx&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Sony
+#EXTINF:0 group-title="Lista TV", TNT Series
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=tntseries&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Universal
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=universal&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Cinecanal
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=cinecanal&f=.m3u8
+#EXTINF:0 group-title="Lista TV", Cinemax
+http://ipeteve.com/php/REGIO_PLAY21321231/regio2.php?c=cinemax&f=.m3u8
+
